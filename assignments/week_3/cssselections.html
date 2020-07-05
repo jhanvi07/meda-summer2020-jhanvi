@@ -1,0 +1,50 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>CSS selections</title>
+  <meta name="description" content="Description of your webpage.">
+  <meta name="author" content="Author of webpage">
+
+  <style>
+  p{
+    color:darkorange;
+    font-size:40px;
+  }
+
+  div p{
+    color:black;
+  }
+
+  div #note{
+    color:gray;
+  }
+  .odd{
+    background-color: lightgray;
+  }
+  #special{
+    color:pink;
+  }
+  </style>
+
+</head>
+
+<body>
+
+  <p>Hello there!</p>
+  <div>
+  <p id="secondword">Goodbye!</p>
+  <p id="note">P.S. DON'T FORGET!</p>
+  </div>
+
+  <ul>
+    <li class="odd">Some item</li>
+    <li>Some item</li>
+    <li class="odd" id="special">Some item</li>
+    <li>Some item</li>
+    <li class="odd">Some item</li>
+  </ul>
+</body>
+</html>
