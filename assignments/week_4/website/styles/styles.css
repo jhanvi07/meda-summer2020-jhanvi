@@ -1,0 +1,129 @@
+h2{
+    color: blue;
+}
+
+#container{
+    width:700px;
+    border-style: solid;
+    border-width: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    font-family: "Arial";
+    
+}
+
+#header{
+  background-color: red;
+}
+
+#header:hover{
+    background-color: darkgreen;
+}
+#header h1{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: snow;
+}
+
+#header ul{
+    color: white;
+    text-align: left;
+    padding-left: 0;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+}
+
+#header ul li{
+    background-color: darkgray;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    line-height: 50px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 15px;
+}
+
+#header ul li a{
+    
+}
+
+#header ul li a:link{
+    color: white;
+    text-decoration: none;
+}
+
+#header ul li a:hover{
+    color: blue;
+}
+ 
+#header ul li a:active{
+    color: green;
+    margin-left: 5px;
+}
+#header ul li a:visited{
+    color: darkred;
+}
+
+
+
+#main{
+    background-color: lightcoral;
+}
+
+#first-section-title{
+    margin-top: 0;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#main p{
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    line-height: 22px;
+    color: darkslategray;
+}
+
+img{
+    border-style: solid;
+    border-radius: 85px;
+    border-width: 2px;
+}
+
+img:hover{
+    border-color: darkgreen
+}
+
+#footer{
+    height:120px;
+}
+
+#contact-page #contact-form{
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    text-align: left;
+    margin-left: 100px;
+}
+
+body#contact-page form#contact-form input{
+    margin-bottom: 20px;
+    height: 50px;
+    width: 400px;
+    font-size: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: red;
+    padding-left: 10px;
+}
+#ref{
+    text-align: left;
+}
