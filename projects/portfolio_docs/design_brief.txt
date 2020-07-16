@@ -1,0 +1,19 @@
+Portfolio Design:
+I would use black as background color of the website and text in the body, header, link, and footer would be in white color. I want to make the website simple because it is a portfolio which should look professional. I will add my portrait photo which looks professional. For my tech skills, I would add icons of the tools I use generally which are VS Code, Jupyter Notebook, Eclipse and few more. As I am doing web designing currently, I will add an image related to that.
+
+HOMEPAGE: ABOUT ME, CONTACT ME, PROJECTS
+ABOUT ME: 
+My name is Jhanvi Lotwala. I am a student at San Jose State University. My major is Applied Mathematics with a minor in Computer Science. I declared my major in Applied Math because I liked math since high school. Later on I became interested in Computer programming as well. I have learned back-end languages like Java and C and I have started learning python recently.
+
+I am also interested in learning about front-end languages like HTML, CSS and Javascript which is useful in web designing which is why currently I am taking a class in Web Designing. I intend to pursue a career in the software industry. I always think that coding and math is a great combination because it complels the mind to think out of the box.
+
+CONTACT ME:
+There will be a form attached on this page where you can submit your name, email and message. At the end my email and social media links will also be provided.
+
+PROJECTS:
+List of my projects.
+
+Portfolio examples:
+I liked this one because it's simple with good design: http://www.fabriziodelgaudio.it/
+I found this format unique because of minimal design and good info: http://briandelaney.me/
+This is the simplest to be used as a beginner: http://www.tejucole.com/
