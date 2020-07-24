@@ -46,7 +46,7 @@
 }
 
 #header ul li a:visited {
-    color: #FFFFFF;
+    color: #000000;
 }
 
 #header ul li a:hover {
@@ -59,10 +59,18 @@
      margin-top: 5px;
 }
 
+#main img {
+    border-width: 2px;
+    padding-left: 70px;
+    padding-right: 70px;
+    
+}
+
 #footer {
     background-color: #000000;    
 }
 
 #footer p{
+    padding-top: 150px;
     color: #FFFFFF;
 }
