@@ -1,4 +1,7 @@
-console.log("Hello World!");
+//The If statement
 
-var myNumber = 100;
- console.log(myNumber);
+//Syntax
+if (true){
+    console.log("This if statement was true so I ran this code!");  
+}
+
