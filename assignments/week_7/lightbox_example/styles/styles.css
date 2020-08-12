@@ -1,0 +1,66 @@
+/*To change the background color of entire website, select body and use background-color.*/
+body{
+    background-color: #045B78;
+}
+
+a{
+    color: #62D4FA
+}
+
+h2{
+    color: #07BBF7;
+}
+
+#container{
+    width:700px;
+    border-style: solid;
+    border-width: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    font-family: "Arial";
+    
+}
+
+#header{
+  
+}
+
+#header h1{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: snow;
+}
+
+#main{
+   
+}
+
+#first-section-title{
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+#main p{
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    line-height: 22px;
+    color: #62D4FA;
+}
+
+img{
+    border-style: solid;
+    border-radius: 85px;
+    border-width: 2px;
+}
+
+#footer{
+    height:120px;
+}
+
+#ref{
+    text-align: left;
+}
